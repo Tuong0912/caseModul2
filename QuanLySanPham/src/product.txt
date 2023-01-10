@@ -1,0 +1,1 @@
+Product{maSanPham=1, tenSanPham='sdfg', giaSanPham=5.0, soLuong=3, moTa='fg'}
